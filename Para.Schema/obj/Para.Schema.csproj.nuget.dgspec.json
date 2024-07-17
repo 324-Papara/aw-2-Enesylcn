@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\pk-ppr-main\\Para.Api\\Para.Schema\\Para.Schema.csproj": {}
+    "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\aw-2-Enesylcn\\Papara_Task_Week2\\Para.Schema\\Para.Schema.csproj": {}
   },
   "projects": {
-    "c:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\pk-ppr-main\\Para.Api\\Para.Base\\Para.Base.csproj": {
+    "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\aw-2-Enesylcn\\Papara_Task_Week2\\Para.Base\\Para.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\pk-ppr-main\\Para.Api\\Para.Base\\Para.Base.csproj",
+        "projectUniqueName": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\aw-2-Enesylcn\\Papara_Task_Week2\\Para.Base\\Para.Base.csproj",
         "projectName": "Para.Base",
-        "projectPath": "c:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\pk-ppr-main\\Para.Api\\Para.Base\\Para.Base.csproj",
+        "projectPath": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\aw-2-Enesylcn\\Papara_Task_Week2\\Para.Base\\Para.Base.csproj",
         "packagesPath": "C:\\Users\\enesyalcin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\pk-ppr-main\\Para.Api\\Para.Base\\obj\\",
+        "outputPath": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\aw-2-Enesylcn\\Papara_Task_Week2\\Para.Base\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\pk-ppr-main\\Para.Api\\Para.Schema\\Para.Schema.csproj": {
+    "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\aw-2-Enesylcn\\Papara_Task_Week2\\Para.Schema\\Para.Schema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\pk-ppr-main\\Para.Api\\Para.Schema\\Para.Schema.csproj",
+        "projectUniqueName": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\aw-2-Enesylcn\\Papara_Task_Week2\\Para.Schema\\Para.Schema.csproj",
         "projectName": "Para.Schema",
-        "projectPath": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\pk-ppr-main\\Para.Api\\Para.Schema\\Para.Schema.csproj",
+        "projectPath": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\aw-2-Enesylcn\\Papara_Task_Week2\\Para.Schema\\Para.Schema.csproj",
         "packagesPath": "C:\\Users\\enesyalcin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\pk-ppr-main\\Para.Api\\Para.Schema\\obj\\",
+        "outputPath": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\aw-2-Enesylcn\\Papara_Task_Week2\\Para.Schema\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,8 +96,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\pk-ppr-main\\Para.Api\\Para.Base\\Para.Base.csproj": {
-                "projectPath": "c:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\pk-ppr-main\\Para.Api\\Para.Base\\Para.Base.csproj"
+              "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\aw-2-Enesylcn\\Papara_Task_Week2\\Para.Base\\Para.Base.csproj": {
+                "projectPath": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\aw-2-Enesylcn\\Papara_Task_Week2\\Para.Base\\Para.Base.csproj"
               }
             }
           }

@@ -27,7 +27,7 @@ namespace Para.Api.Controllers
             return result;
         }
 
-        // GET api/<CustomersController>/5
+        // GET api/<CustomersController>/1
         [HttpGet("{customerId}")]
         public async Task<ApiResponse<CustomerResponse>> Get([FromRoute]long customerId)
         {

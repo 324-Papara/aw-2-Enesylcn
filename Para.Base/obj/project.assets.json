@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\pk-ppr-main\\Para.Api\\Para.Base\\Para.Base.csproj",
+      "projectUniqueName": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\aw-2-Enesylcn\\Papara_Task_Week2\\Para.Base\\Para.Base.csproj",
       "projectName": "Para.Base",
-      "projectPath": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\pk-ppr-main\\Para.Api\\Para.Base\\Para.Base.csproj",
+      "projectPath": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\aw-2-Enesylcn\\Papara_Task_Week2\\Para.Base\\Para.Base.csproj",
       "packagesPath": "C:\\Users\\enesyalcin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\pk-ppr-main\\Para.Api\\Para.Base\\obj\\",
+      "outputPath": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Hafta3_Yeni\\aw-2-Enesylcn\\Papara_Task_Week2\\Para.Base\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
